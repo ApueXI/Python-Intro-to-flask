@@ -13,7 +13,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 its just single backslash but i am running python while i have this comment so
 .\\env\\Scripts\\activate.ps1
 
-this is the test from the test branch
+
 """
 
 app = Flask(__name__)
