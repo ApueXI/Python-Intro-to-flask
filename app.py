@@ -17,6 +17,7 @@ this is the main
 how is this not the main
 
 just editing stuff to test something
+tested it, it was succesful
 """
 
 app = Flask(__name__)
